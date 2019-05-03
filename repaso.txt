@@ -3,3 +3,5 @@ repaso
 uso de git
 manzana
 peras
+uvas
+bananas
